@@ -1,5 +1,3 @@
-# DBDC_V20_Programacion_en_R_para_ciencia_de_datos
-
 PONTIFICIA UNIVERSIDAD CATÓLICA DE CHILE <br>
 Facultad de Ingeniería <br>
 Educación Profesional <br>
