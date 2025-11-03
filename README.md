@@ -33,6 +33,6 @@ Horas cronológicas: 24; Créditos: 5
   * Nociones básicas de series de tiempo (Tentativo)
 
 ## Evaluaciones
-Control 1: 03 de Noviembre 2025 (clase 3). Ponderación, 1/3. <br>
-Control 2: 24 de Noviembre 2025 (clase 6). Ponderación, 1/3. <br>
-Control 3: 15 de Diciembre 2025 (clase 8). Ponderación, 1/3. <br>
+Control 1: 07 de Noviembre 2025 (clase 3). Ponderación, 1/3. <br>
+Control 2: 28 de Noviembre 2025 (clase 6). Ponderación, 1/3. <br>
+Control 3: 19 de Diciembre 2025 (clase 8). Ponderación, 1/3. <br>
